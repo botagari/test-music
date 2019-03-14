@@ -1,0 +1,6 @@
+owner=554355178271145985
+prefix=-
+game=Yandex |-play
+stayinchannel=true
+songinstatus=false
+token=NTU1NzUyNDgxNTU3MDUzNDUx.D2vwaA.1bP8WEik861b5_dAs3tWx1-MLqM
